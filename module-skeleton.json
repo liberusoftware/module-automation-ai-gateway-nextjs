@@ -1,0 +1,15 @@
+{
+  "repository": "module-automation-ai-gateway-nextjs",
+  "capabilityKey": "liberusoftware/automation-ai-gateway",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-automation-ai-gateway-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/automation/nextjs/ai-gateway.md",
+  "presentationPlan": "projects/automation/nextjs/ai-gateway.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
